@@ -1,5 +1,7 @@
 # ![Power Apps](https://github.com/powerplatform-partner/.github/blob/main/profile/images/PowerApps_scalable.svg) Power Apps
 
+| Topics|
+| ------------- |
 | [Canvas App Documentation](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/) |
 | [Model driven App Documentation](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/) |
 | [App in a day workshop](https://powerplatform.microsoft.com/en-us/instructor-led-training/#section-app-in-a-day)  |
@@ -11,6 +13,8 @@
 
 ## Performance and Optimization
 
+| Topics|
+| ------------- |
 | [Canvas App Execution Phases and Flow](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/execution-phases-data-flow) |
 | [Common Source of slow performance for canvas app](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/slow-performance-sources) |
 | [Common Performance Issues & resolutions](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/common-performance-issue-resolutions)  |
